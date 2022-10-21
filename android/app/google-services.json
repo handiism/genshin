@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172822741233",
+    "project_id": "genshin-app-sanber",
+    "storage_bucket": "genshin-app-sanber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172822741233:android:8ca4517781968fb023e950",
+        "android_client_info": {
+          "package_name": "com.example.genshin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172822741233-p50jibrc0iv6iennrtbg9hgc7fq63peb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATMnJR__U02wvgaDio4lKmY1tH18xVDjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172822741233-p50jibrc0iv6iennrtbg9hgc7fq63peb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
